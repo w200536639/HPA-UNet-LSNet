@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# Logs and results
+logs/
+results/
+
+# Dataset
+VOCdevkit/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# System files
+.DS_Store
+Thumbs.db
